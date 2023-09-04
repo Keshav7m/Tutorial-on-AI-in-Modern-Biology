@@ -1,9 +1,10 @@
 # Tutorial-on-AI-in-Modern-Biology
  Explore AI's impact on modern biology. Discover AI models, projects, datasets, and tutorials for groundbreaking research at the intersection of biology and artificial intelligence. Join us in bridging the gap! #AI #Biology #Research
 
-Hands-on Session on
+#Hands-on Session on
 "Revolutionizing Reproductive Health: The Role of AI in Optimizing Fertility and Maternal Care"
-Abstract
+
+
 Reproductive health and maternal care are fundamental aspects of healthcare, with profound implications for the well-being of individuals and societies. In recent years, the advent of Artificial Intelligence (AI) has opened up new horizons for revolutionizing these critical domains. This research explores the potential of AI in optimizing fertility and maternal care through the application of Exploratory Data Analysis (EDA), data visualization, and Machine Learning (ML) algorithms for prediction modelling.
 The first part of this research delves into Exploratory Data Analysis and data visualization techniques applied to comprehensive dataset related to reproductive health and maternal care. EDA unveils hidden patterns and trends, shedding light on factors affecting fertility rates, maternal health outcomes, and finding correlation. Visualization tools provide intuitive insights, enhancing our understanding of complex relationships within these datasets.
 The second part of this study focuses on the application of Machine Learning algorithms for prediction modelling. Various ML techniques, including regression, classification, and Naïve Bayes, are employed to create robust and accurate predictive models.
